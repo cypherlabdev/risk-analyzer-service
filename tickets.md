@@ -13,7 +13,22 @@
 **Assignee**: sj@cypherlab.tech
 **Dependencies**: ⬆️ ENG-90 + ENG-86 (consume user/wallet events), ⬇️ None
 
-## Tickets to Create
-1. **[NEW] Implement ML Fraud Detection Pipeline (P0)** - Core ML models missing
-2. **[NEW] Add Real-time Risk Scoring (P0)** - Risk calculation engine
-3. **[NEW] Add Historical Analysis Dashboard (P2)** - Visualization
+## Proposed New Tickets (Created in Asana)
+
+### 2. Implement ML Fraud Detection Pipeline
+**Task ID**: 1211847668411558
+**ENG**: Pending assignment
+**URL**: https://app.asana.com/0/1211254851871080/1211847668411558
+**Priority**: P0
+
+### 3. Add Real-time Risk Scoring
+**Task ID**: 1211847669718867
+**ENG**: Pending assignment
+**URL**: https://app.asana.com/0/1211254851871080/1211847669718867
+**Priority**: P0
+
+### 4. Add Historical Analysis Dashboard
+**Task ID**: 1211847670217569
+**ENG**: Pending assignment
+**URL**: https://app.asana.com/0/1211254851871080/1211847670217569
+**Priority**: P2
